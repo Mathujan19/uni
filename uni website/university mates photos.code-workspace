@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my first project/movie ticket booking"
+		},
+		{
+			"path": "../../my first project/mathurya/html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uni website",
+		"liveServer.settings.port": 5501
+	}
+}
